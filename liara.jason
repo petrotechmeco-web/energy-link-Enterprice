@@ -8,3 +8,8 @@
   "mirror": false
 }
 }
+{
+  "node": {
+  "version": "22"
+}
+}
