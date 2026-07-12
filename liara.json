@@ -1,7 +1,7 @@
 {
   "platform": "node",
   "app": "energylink",
-  "port": 3000
+  "port": 3050
 }
 {
   "node": {
@@ -10,6 +10,6 @@
 }
 {
   "node": {
-  "version": "22"
+  "version": "20"
 }
 }
