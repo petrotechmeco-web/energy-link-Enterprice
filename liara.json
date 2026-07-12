@@ -1,15 +1,8 @@
 {
   "platform": "node",
   "app": "energylink",
-  "port": 3050
-}
-{
+  "port": 3000,
   "node": {
-  "mirror": false
-}
-}
-{
-  "node": {
-  "version": "20"
-}
+    "version": "20"
+  }
 }
