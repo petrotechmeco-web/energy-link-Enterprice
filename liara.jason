@@ -1,7 +1,7 @@
 {
   "platform": "node",
   "app": "energy-link-front",
-  "port": 3000
+  "port": 3005
 }
 {
   "node": {
