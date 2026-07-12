@@ -1,6 +1,6 @@
 import React from 'react';
-import Hero from './components/Hero.jsx';
-import AboutSolutions from './components/AboutSolutions.jsx';
+import Hero from './components/Hero';
+import AboutSolutions from './components/AboutSolutions';
 
 export default function App() {
   return (
