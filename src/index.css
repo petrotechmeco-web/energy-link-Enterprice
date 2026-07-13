@@ -9,7 +9,17 @@
 }
 
 body {
-  background-color: var(--color-brand-dark);
+  background-color: #030a16;
   color: #ffffff;
   font-family: 'Vazirmatn', sans-serif;
+  direction: rtl;
+}
+
+/* انیمیشن برای پالس و چرخش المان‌های شبکه */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
 }
